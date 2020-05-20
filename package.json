@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skylark05/helloworld.git"
+    "url": "git+https://github.com/Varsha-Arun/npmHelloWorld.git"
   },
-  "author": "skylark05",
+  "author": "Varsha-Arun",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/skylark05/helloworld/issues"
+    "url": "https://github.com/Varsha-Arun/npmHelloWorld/issues"
   },
-  "homepage": "https://github.com/skylark05/helloworld#readme",
+  "homepage": "https://github.com/Varsha-Arun/npmHelloWorld#readme",
   "dependencies": {
     "underscore": "^1.9.1"
   }
